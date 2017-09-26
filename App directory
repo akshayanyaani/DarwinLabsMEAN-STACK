@@ -1,0 +1,17 @@
+
+-- app  
+---- models 
+------ superhero.js
+---- routes
+------ superhero.js
+
+-- public 
+---- index.html 
+---- app.js
+---- controllers
+---- partials
+
+-- server.js
+-- package.json
+-- bower.json
+-- .bowercc
